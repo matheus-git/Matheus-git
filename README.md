@@ -1,8 +1,8 @@
 ##  Olá, sou Matheus Silva 👋
 
-Sou desenvolvedor Full Stack com 7 anos de experiência e formado em Análise e Desenvolvimento de Sistemas (2018). Trabalho principalmente com JavaScript (React, Node.js, Vue.js), além de Laravel e Ruby on Rails. Já atuei tanto no desenvolvimento web quanto mobile, incluindo a publicação de aplicativos.
+Sou desenvolvedor Full Stack com 7 anos de experiência e formado em Análise e Desenvolvimento de Sistemas (2018). Trabalho principalmente com JavaScript (React, Node.js, Vue.js), além de Laravel e Ruby on Rails. Tenho um compromisso com boas práticas de desenvolvimento, aplicando Clean Code, SOLID e arquiteturas como DDD e Clean Architecture. 
 
-Tenho um compromisso com boas práticas de desenvolvimento, aplicando Clean Code, SOLID e arquiteturas como DDD e Clean Architecture. Todo fim de semana trabalho em projetos pessoais para consolidar o aprendizado e explorar possibilidades das tecnologias que uso. A seguir, listo as ferramentas mais utilizadas:
+Todo fim de semana trabalho em projetos pessoais para consolidar o aprendizado e explorar possibilidades das tecnologias que uso. A seguir, listo as ferramentas mais utilizadas:
 
 ### Tecnologias de Desenvolvimento
 
