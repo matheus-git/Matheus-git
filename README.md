@@ -4,3 +4,4 @@
 ---
 
 ![Matheus stack](http://72.61.41.72:9000/api/top-langs/?username=matheus-git&layout=compact&hide_progress=false&exclude_repo=nvim-plugins,simple-inertia,tech-bookshelf&theme=vue-dark&cache_seconds=0) ![Matheus stats](http://72.61.41.72:9000/api?username=matheus-git&show_icons=true&theme=vue-dark&hide=issues&rank_icon=default&hide_progress=true&hide_rank=&line_height=24&cache_seconds=0) 
+![Stats](./profile/stats.svg)
